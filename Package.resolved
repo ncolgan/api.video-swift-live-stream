@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/shogo4405/HaishinKit.swift",
       "state" : {
-        "revision" : "3d69e5a8514d7aead27aa4241dd859fc219acd3f",
-        "version" : "1.9.3"
+        "revision" : "a4737dc49d8d676728c236a4fd4b09a3e957dc31",
+        "version" : "1.9.7"
       }
     },
     {
